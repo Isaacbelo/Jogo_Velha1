@@ -17,7 +17,7 @@ public class Main {
         int valida = 0;  //Valida as jogadas enquanto estiver em 0, fica em loop
         int jogadas = 0; // Conta as jogadas
 
-        //Enquanto for verdadeiro mostra tabuleiro, faz loop do-while, 
+        //Enquanto for verdadeiro mostra tabuleiro, faz loop do-while
         while (true) {//*************************************
             System.out.println(":::::Jogo da Velha:::::");
             jogo.Mostrar();
